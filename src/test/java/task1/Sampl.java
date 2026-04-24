@@ -1,9 +1,9 @@
 package task1;
 
-public class Demo {
+public class Sampl {
 
 	public static void main(String[] args) {
-		System.out.println("hi my name ");
+		System.out.println("sample2 commit");
 
 	}
 
